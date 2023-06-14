@@ -1,0 +1,9 @@
+.div {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+}
+
+.active {
+  border: 3px solid red;
+}/*# sourceMappingURL=style.css.map */
